@@ -5,3 +5,4 @@ swirld, hedera
 app, HederaNode.jar
 address, 0, n0, node1, 1, network-node, 50111, network-node, 50111, 0.0.3
 nextNodeId, 1
+# Update: 2025-10-14
