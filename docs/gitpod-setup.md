@@ -152,3 +152,5 @@ Therefore, once completed, do remember to stop the Gitpod workspace.
 * [IDEs & Editors](https://www.gitpod.io/docs/references/ides-and-editors)
 * [Github Integration](https://www.gitpod.io/docs/integrations/github)
 * [Plans and pricing](https://www.gitpod.io/pricing)
+
+<!-- Auto-update: 2025-10-15T13:13:24.693053 -->
